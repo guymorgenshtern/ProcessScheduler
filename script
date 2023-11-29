@@ -1,0 +1,3 @@
+gcc Assignment3.c -o a3
+
+gnome-terminal --tab
